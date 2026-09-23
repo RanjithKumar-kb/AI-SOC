@@ -1,0 +1,30 @@
+# Virtual environment
+ais/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML/model files
+*.pt
+*.pth
+*.onnx
+*.bin
+ais/

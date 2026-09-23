@@ -1,0 +1,32 @@
+# Web Framework & APIs
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+streamlit>=1.32.0
+
+# Model Context Protocol (MCP)
+fastmcp>=0.1.0
+mcp>=1.0.0
+
+# AI & LLM Orchestration
+langchain>=0.1.13
+langchain-community>=0.0.29
+langchain-openai>=0.1.1
+openai>=1.14.1
+langgraph>=0.1.0
+langchain-ollama>=0.1.0
+
+# Database & ORM
+SQLAlchemy>=2.0.28
+
+# Authentication & Security
+pyjwt>=2.8.0
+passlib[bcrypt]>=1.7.4
+bcrypt>=4.1.2
+
+# PDF Generation
+reportlab>=4.1.0
+
+# Utilities & Data Handling
+pydantic>=2.6.4
+python-dotenv>=1.0.1
+requests>=2.31.0
